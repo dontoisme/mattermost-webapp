@@ -315,7 +315,7 @@ export default class SelectTeam extends React.PureComponent<Props, State> {
                     >
                         <FormattedMessage
                             id='login.createTeam'
-                            defaultMessage='Create a teammmmm'
+                            defaultMessage='Create a team'
                         />
                     </Link>
                 </div>
